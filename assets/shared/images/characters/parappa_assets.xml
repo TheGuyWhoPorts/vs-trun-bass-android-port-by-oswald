@@ -1,0 +1,240 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="parappa_assets.png">
+	<!-- Created with Adobe Animate version 21.0.5.40714 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="alt parappa down0000" x="0" y="0" width="445" height="636"/>
+	<SubTexture name="alt parappa down0001" x="445" y="0" width="445" height="636"/>
+	<SubTexture name="alt parappa down0002" x="890" y="0" width="445" height="636"/>
+	<SubTexture name="alt parappa down0003" x="890" y="0" width="445" height="636"/>
+	<SubTexture name="alt parappa down0004" x="1335" y="0" width="445" height="636"/>
+	<SubTexture name="alt parappa down0005" x="1335" y="0" width="445" height="636"/>
+	<SubTexture name="alt parappa down0006" x="1780" y="0" width="445" height="636"/>
+	<SubTexture name="alt parappa down0007" x="1780" y="0" width="445" height="636"/>
+	<SubTexture name="alt parappa down0008" x="1780" y="0" width="445" height="636"/>
+	<SubTexture name="alt parappa down0009" x="1780" y="0" width="445" height="636"/>
+	<SubTexture name="alt parappa down0010" x="1780" y="0" width="445" height="636"/>
+	<SubTexture name="alt parappa down0011" x="1780" y="0" width="445" height="636"/>
+	<SubTexture name="alt parappa down0012" x="2225" y="0" width="445" height="636"/>
+	<SubTexture name="alt parappa down0013" x="2670" y="0" width="445" height="636"/>
+	<SubTexture name="alt parappa down0014" x="3115" y="0" width="445" height="636"/>
+	<SubTexture name="alt parappa down0015" x="3560" y="0" width="445" height="636"/>
+	<SubTexture name="alt parappa down0016" x="4005" y="0" width="445" height="636"/>
+	<SubTexture name="alt parappa down0017" x="4450" y="0" width="445" height="636"/>
+	<SubTexture name="alt parappa down0018" x="4450" y="0" width="445" height="636"/>
+	<SubTexture name="alt parappa down0019" x="4450" y="0" width="445" height="636"/>
+	<SubTexture name="alt parappa down0020" x="4450" y="0" width="445" height="636"/>
+	<SubTexture name="alt parappa down0021" x="4450" y="0" width="445" height="636"/>
+	<SubTexture name="alt parappa down0022" x="4895" y="0" width="445" height="636"/>
+	<SubTexture name="alt parappa down0023" x="5340" y="0" width="445" height="636"/>
+	<SubTexture name="alt parappa down0024" x="5785" y="0" width="445" height="636"/>
+	<SubTexture name="alt parappa idle0000" x="6230" y="0" width="433" height="632"/>
+	<SubTexture name="alt parappa idle0001" x="6230" y="0" width="433" height="632"/>
+	<SubTexture name="alt parappa idle0002" x="6663" y="0" width="433" height="632"/>
+	<SubTexture name="alt parappa idle0003" x="6663" y="0" width="433" height="632"/>
+	<SubTexture name="alt parappa idle0004" x="7096" y="0" width="433" height="632"/>
+	<SubTexture name="alt parappa idle0005" x="7096" y="0" width="433" height="632"/>
+	<SubTexture name="alt parappa idle0006" x="7529" y="0" width="433" height="632"/>
+	<SubTexture name="alt parappa idle0007" x="7529" y="0" width="433" height="632"/>
+	<SubTexture name="alt parappa idle0008" x="0" y="636" width="433" height="632"/>
+	<SubTexture name="alt parappa idle0009" x="0" y="636" width="433" height="632"/>
+	<SubTexture name="alt parappa idle0010" x="433" y="636" width="433" height="632"/>
+	<SubTexture name="alt parappa idle0011" x="433" y="636" width="433" height="632"/>
+	<SubTexture name="alt parappa idle0012" x="866" y="636" width="433" height="632"/>
+	<SubTexture name="alt parappa idle0013" x="866" y="636" width="433" height="632"/>
+	<SubTexture name="alt parappa idle0014" x="1299" y="636" width="433" height="632"/>
+	<SubTexture name="alt parappa idle0015" x="1299" y="636" width="433" height="632"/>
+	<SubTexture name="alt parappa right0000" x="1732" y="636" width="442" height="711"/>
+	<SubTexture name="alt parappa right0001" x="1732" y="636" width="442" height="711"/>
+	<SubTexture name="alt parappa right0002" x="2174" y="636" width="442" height="711"/>
+	<SubTexture name="alt parappa right0003" x="2174" y="636" width="442" height="711"/>
+	<SubTexture name="alt parappa right0004" x="2616" y="636" width="442" height="711"/>
+	<SubTexture name="alt parappa right0005" x="2616" y="636" width="442" height="711"/>
+	<SubTexture name="alt parappa right0006" x="3058" y="636" width="442" height="711"/>
+	<SubTexture name="alt parappa right0007" x="3058" y="636" width="442" height="711"/>
+	<SubTexture name="alt parappa right0008" x="3500" y="636" width="442" height="711"/>
+	<SubTexture name="alt parappa right0009" x="3500" y="636" width="442" height="711"/>
+	<SubTexture name="alt parappa right0010" x="3500" y="636" width="442" height="711"/>
+	<SubTexture name="alt parappa right0011" x="3500" y="636" width="442" height="711"/>
+	<SubTexture name="alt parappa right0012" x="3500" y="636" width="442" height="711"/>
+	<SubTexture name="alt parappa right0013" x="3500" y="636" width="442" height="711"/>
+	<SubTexture name="alt parappa right0014" x="3500" y="636" width="442" height="711"/>
+	<SubTexture name="alt parappa right0015" x="3942" y="636" width="442" height="711"/>
+	<SubTexture name="alt parappa right0016" x="4384" y="636" width="442" height="711"/>
+	<SubTexture name="alt parappa right0017" x="4826" y="636" width="442" height="711"/>
+	<SubTexture name="miss parappa down0000" x="5268" y="636" width="443" height="633"/>
+	<SubTexture name="miss parappa down0001" x="5711" y="636" width="443" height="633"/>
+	<SubTexture name="miss parappa down0002" x="6154" y="636" width="443" height="633"/>
+	<SubTexture name="miss parappa down0003" x="6154" y="636" width="443" height="633"/>
+	<SubTexture name="miss parappa down0004" x="6597" y="636" width="443" height="633"/>
+	<SubTexture name="miss parappa down0005" x="6597" y="636" width="443" height="633"/>
+	<SubTexture name="miss parappa down0006" x="6597" y="636" width="443" height="633"/>
+	<SubTexture name="miss parappa down0007" x="6597" y="636" width="443" height="633"/>
+	<SubTexture name="miss parappa down0008" x="6597" y="636" width="443" height="633"/>
+	<SubTexture name="miss parappa down0009" x="6597" y="636" width="443" height="633"/>
+	<SubTexture name="miss parappa down0010" x="6597" y="636" width="443" height="633"/>
+	<SubTexture name="miss parappa down0011" x="6597" y="636" width="443" height="633"/>
+	<SubTexture name="miss parappa down0012" x="6597" y="636" width="443" height="633"/>
+	<SubTexture name="miss parappa down0013" x="6597" y="636" width="443" height="633"/>
+	<SubTexture name="miss parappa down0014" x="7040" y="636" width="443" height="633"/>
+	<SubTexture name="miss parappa down0015" x="7483" y="636" width="443" height="633"/>
+	<SubTexture name="miss parappa left0000" x="0" y="1347" width="448" height="630"/>
+	<SubTexture name="miss parappa left0001" x="448" y="1347" width="448" height="630"/>
+	<SubTexture name="miss parappa left0002" x="448" y="1347" width="448" height="630"/>
+	<SubTexture name="miss parappa left0003" x="896" y="1347" width="448" height="630"/>
+	<SubTexture name="miss parappa left0004" x="896" y="1347" width="448" height="630"/>
+	<SubTexture name="miss parappa left0005" x="896" y="1347" width="448" height="630"/>
+	<SubTexture name="miss parappa left0006" x="896" y="1347" width="448" height="630"/>
+	<SubTexture name="miss parappa left0007" x="896" y="1347" width="448" height="630"/>
+	<SubTexture name="miss parappa left0008" x="896" y="1347" width="448" height="630"/>
+	<SubTexture name="miss parappa left0009" x="896" y="1347" width="448" height="630"/>
+	<SubTexture name="miss parappa left0010" x="896" y="1347" width="448" height="630"/>
+	<SubTexture name="miss parappa left0011" x="896" y="1347" width="448" height="630"/>
+	<SubTexture name="miss parappa left0012" x="896" y="1347" width="448" height="630"/>
+	<SubTexture name="miss parappa left0013" x="896" y="1347" width="448" height="630"/>
+	<SubTexture name="miss parappa left0014" x="1344" y="1347" width="448" height="630"/>
+	<SubTexture name="miss parappa left0015" x="1792" y="1347" width="448" height="630"/>
+	<SubTexture name="miss parappa right0000" x="2240" y="1347" width="466" height="634"/>
+	<SubTexture name="miss parappa right0001" x="2706" y="1347" width="466" height="634"/>
+	<SubTexture name="miss parappa right0002" x="2706" y="1347" width="466" height="634"/>
+	<SubTexture name="miss parappa right0003" x="3172" y="1347" width="466" height="634"/>
+	<SubTexture name="miss parappa right0004" x="3172" y="1347" width="466" height="634"/>
+	<SubTexture name="miss parappa right0005" x="3172" y="1347" width="466" height="634"/>
+	<SubTexture name="miss parappa right0006" x="3172" y="1347" width="466" height="634"/>
+	<SubTexture name="miss parappa right0007" x="3172" y="1347" width="466" height="634"/>
+	<SubTexture name="miss parappa right0008" x="3172" y="1347" width="466" height="634"/>
+	<SubTexture name="miss parappa right0009" x="3172" y="1347" width="466" height="634"/>
+	<SubTexture name="miss parappa right0010" x="3172" y="1347" width="466" height="634"/>
+	<SubTexture name="miss parappa right0011" x="3172" y="1347" width="466" height="634"/>
+	<SubTexture name="miss parappa right0012" x="3638" y="1347" width="466" height="634"/>
+	<SubTexture name="miss parappa right0013" x="4104" y="1347" width="466" height="634"/>
+	<SubTexture name="miss parappa right0014" x="4570" y="1347" width="466" height="634"/>
+	<SubTexture name="miss parappa right0015" x="5036" y="1347" width="466" height="634"/>
+	<SubTexture name="miss parappa up0000" x="5502" y="1347" width="435" height="644"/>
+	<SubTexture name="miss parappa up0001" x="5937" y="1347" width="435" height="644"/>
+	<SubTexture name="miss parappa up0002" x="6372" y="1347" width="435" height="644"/>
+	<SubTexture name="miss parappa up0003" x="6807" y="1347" width="435" height="644"/>
+	<SubTexture name="miss parappa up0004" x="7242" y="1347" width="435" height="644"/>
+	<SubTexture name="miss parappa up0005" x="7242" y="1347" width="435" height="644"/>
+	<SubTexture name="miss parappa up0006" x="7242" y="1347" width="435" height="644"/>
+	<SubTexture name="miss parappa up0007" x="7242" y="1347" width="435" height="644"/>
+	<SubTexture name="miss parappa up0008" x="7242" y="1347" width="435" height="644"/>
+	<SubTexture name="miss parappa up0009" x="7242" y="1347" width="435" height="644"/>
+	<SubTexture name="miss parappa up0010" x="6807" y="1347" width="435" height="644"/>
+	<SubTexture name="miss parappa up0011" x="7242" y="1347" width="435" height="644"/>
+	<SubTexture name="miss parappa up0012" x="7242" y="1347" width="435" height="644"/>
+	<SubTexture name="miss parappa up0013" x="7677" y="1347" width="435" height="644"/>
+	<SubTexture name="miss parappa up0014" x="0" y="1991" width="435" height="644"/>
+	<SubTexture name="miss parappa up0015" x="435" y="1991" width="435" height="644"/>
+	<SubTexture name="parappa down0000" x="870" y="1991" width="442" height="633"/>
+	<SubTexture name="parappa down0001" x="870" y="1991" width="442" height="633"/>
+	<SubTexture name="parappa down0002" x="1312" y="1991" width="442" height="633"/>
+	<SubTexture name="parappa down0003" x="1312" y="1991" width="442" height="633"/>
+	<SubTexture name="parappa down0004" x="1754" y="1991" width="442" height="633"/>
+	<SubTexture name="parappa down0005" x="1754" y="1991" width="442" height="633"/>
+	<SubTexture name="parappa down0006" x="2196" y="1991" width="442" height="633"/>
+	<SubTexture name="parappa down0007" x="2196" y="1991" width="442" height="633"/>
+	<SubTexture name="parappa down0008" x="2638" y="1991" width="442" height="633"/>
+	<SubTexture name="parappa down0009" x="2638" y="1991" width="442" height="633"/>
+	<SubTexture name="parappa down0010" x="2638" y="1991" width="442" height="633"/>
+	<SubTexture name="parappa down0011" x="2638" y="1991" width="442" height="633"/>
+	<SubTexture name="parappa down0012" x="2638" y="1991" width="442" height="633"/>
+	<SubTexture name="parappa down0013" x="3080" y="1991" width="442" height="633"/>
+	<SubTexture name="parappa down0014" x="3522" y="1991" width="442" height="633"/>
+	<SubTexture name="parappa down0015" x="3964" y="1991" width="442" height="633"/>
+	<SubTexture name="parappa idle0000" x="4406" y="1991" width="433" height="633"/>
+	<SubTexture name="parappa idle0001" x="4406" y="1991" width="433" height="633"/>
+	<SubTexture name="parappa idle0002" x="4839" y="1991" width="433" height="633"/>
+	<SubTexture name="parappa idle0003" x="4839" y="1991" width="433" height="633"/>
+	<SubTexture name="parappa idle0004" x="5272" y="1991" width="433" height="633"/>
+	<SubTexture name="parappa idle0005" x="5272" y="1991" width="433" height="633"/>
+	<SubTexture name="parappa idle0006" x="5705" y="1991" width="433" height="633"/>
+	<SubTexture name="parappa idle0007" x="5705" y="1991" width="433" height="633"/>
+	<SubTexture name="parappa idle0008" x="6138" y="1991" width="433" height="633"/>
+	<SubTexture name="parappa idle0009" x="6138" y="1991" width="433" height="633"/>
+	<SubTexture name="parappa idle0010" x="6571" y="1991" width="433" height="633"/>
+	<SubTexture name="parappa idle0011" x="6571" y="1991" width="433" height="633"/>
+	<SubTexture name="parappa idle0012" x="7004" y="1991" width="433" height="633"/>
+	<SubTexture name="parappa idle0013" x="7004" y="1991" width="433" height="633"/>
+	<SubTexture name="parappa idle0014" x="7437" y="1991" width="433" height="633"/>
+	<SubTexture name="parappa idle0015" x="7437" y="1991" width="433" height="633"/>
+	<SubTexture name="parappa left0000" x="0" y="2635" width="447" height="631"/>
+	<SubTexture name="parappa left0001" x="0" y="2635" width="447" height="631"/>
+	<SubTexture name="parappa left0002" x="447" y="2635" width="447" height="631"/>
+	<SubTexture name="parappa left0003" x="447" y="2635" width="447" height="631"/>
+	<SubTexture name="parappa left0004" x="894" y="2635" width="447" height="631"/>
+	<SubTexture name="parappa left0005" x="894" y="2635" width="447" height="631"/>
+	<SubTexture name="parappa left0006" x="1341" y="2635" width="447" height="631"/>
+	<SubTexture name="parappa left0007" x="1341" y="2635" width="447" height="631"/>
+	<SubTexture name="parappa left0008" x="1788" y="2635" width="447" height="631"/>
+	<SubTexture name="parappa left0009" x="1788" y="2635" width="447" height="631"/>
+	<SubTexture name="parappa left0010" x="1788" y="2635" width="447" height="631"/>
+	<SubTexture name="parappa left0011" x="1788" y="2635" width="447" height="631"/>
+	<SubTexture name="parappa left0012" x="1788" y="2635" width="447" height="631"/>
+	<SubTexture name="parappa left0013" x="1788" y="2635" width="447" height="631"/>
+	<SubTexture name="parappa left0014" x="2235" y="2635" width="447" height="631"/>
+	<SubTexture name="parappa left0015" x="2682" y="2635" width="447" height="631"/>
+	<SubTexture name="parappa return0000" x="3129" y="2635" width="448" height="632"/>
+	<SubTexture name="parappa return0001" x="3129" y="2635" width="448" height="632"/>
+	<SubTexture name="parappa return0002" x="3577" y="2635" width="448" height="632"/>
+	<SubTexture name="parappa return0003" x="3577" y="2635" width="448" height="632"/>
+	<SubTexture name="parappa return0004" x="4025" y="2635" width="448" height="632"/>
+	<SubTexture name="parappa return0005" x="4025" y="2635" width="448" height="632"/>
+	<SubTexture name="parappa return0006" x="4473" y="2635" width="448" height="632"/>
+	<SubTexture name="parappa return0007" x="4473" y="2635" width="448" height="632"/>
+	<SubTexture name="parappa return0008" x="4921" y="2635" width="448" height="632"/>
+	<SubTexture name="parappa return0009" x="4921" y="2635" width="448" height="632"/>
+	<SubTexture name="parappa return0010" x="5369" y="2635" width="448" height="632"/>
+	<SubTexture name="parappa return0011" x="5369" y="2635" width="448" height="632"/>
+	<SubTexture name="parappa return0012" x="5817" y="2635" width="448" height="632"/>
+	<SubTexture name="parappa return0013" x="5817" y="2635" width="448" height="632"/>
+	<SubTexture name="parappa return0014" x="5817" y="2635" width="448" height="632"/>
+	<SubTexture name="parappa return0015" x="5817" y="2635" width="448" height="632"/>
+	<SubTexture name="parappa right0000" x="6265" y="2635" width="466" height="634"/>
+	<SubTexture name="parappa right0001" x="6265" y="2635" width="466" height="634"/>
+	<SubTexture name="parappa right0002" x="6731" y="2635" width="466" height="634"/>
+	<SubTexture name="parappa right0003" x="6731" y="2635" width="466" height="634"/>
+	<SubTexture name="parappa right0004" x="7197" y="2635" width="466" height="634"/>
+	<SubTexture name="parappa right0005" x="7197" y="2635" width="466" height="634"/>
+	<SubTexture name="parappa right0006" x="7663" y="2635" width="466" height="634"/>
+	<SubTexture name="parappa right0007" x="7663" y="2635" width="466" height="634"/>
+	<SubTexture name="parappa right0008" x="0" y="3269" width="466" height="634"/>
+	<SubTexture name="parappa right0009" x="0" y="3269" width="466" height="634"/>
+	<SubTexture name="parappa right0010" x="0" y="3269" width="466" height="634"/>
+	<SubTexture name="parappa right0011" x="466" y="3269" width="466" height="634"/>
+	<SubTexture name="parappa right0012" x="932" y="3269" width="466" height="634"/>
+	<SubTexture name="parappa right0013" x="1398" y="3269" width="466" height="634"/>
+	<SubTexture name="parappa right0014" x="1864" y="3269" width="466" height="634"/>
+	<SubTexture name="parappa right0015" x="2330" y="3269" width="466" height="634"/>
+	<SubTexture name="parappa turn0000" x="5817" y="2635" width="448" height="632"/>
+	<SubTexture name="parappa turn0001" x="5817" y="2635" width="448" height="632"/>
+	<SubTexture name="parappa turn0002" x="5817" y="2635" width="448" height="632"/>
+	<SubTexture name="parappa turn0003" x="5817" y="2635" width="448" height="632"/>
+	<SubTexture name="parappa turn0004" x="5369" y="2635" width="448" height="632"/>
+	<SubTexture name="parappa turn0005" x="2796" y="3269" width="448" height="632"/>
+	<SubTexture name="parappa turn0006" x="4921" y="2635" width="448" height="632"/>
+	<SubTexture name="parappa turn0007" x="3244" y="3269" width="448" height="632"/>
+	<SubTexture name="parappa turn0008" x="4473" y="2635" width="448" height="632"/>
+	<SubTexture name="parappa turn0009" x="3692" y="3269" width="448" height="632"/>
+	<SubTexture name="parappa turn0010" x="4025" y="2635" width="448" height="632"/>
+	<SubTexture name="parappa turn0011" x="4140" y="3269" width="448" height="632"/>
+	<SubTexture name="parappa turn0012" x="3577" y="2635" width="448" height="632"/>
+	<SubTexture name="parappa turn0013" x="3577" y="2635" width="448" height="632"/>
+	<SubTexture name="parappa turn0014" x="3129" y="2635" width="448" height="632"/>
+	<SubTexture name="parappa turn0015" x="3129" y="2635" width="448" height="632"/>
+	<SubTexture name="parappa up0000" x="4588" y="3269" width="433" height="644"/>
+	<SubTexture name="parappa up0001" x="4588" y="3269" width="433" height="644"/>
+	<SubTexture name="parappa up0002" x="5021" y="3269" width="433" height="644"/>
+	<SubTexture name="parappa up0003" x="5021" y="3269" width="433" height="644"/>
+	<SubTexture name="parappa up0004" x="5454" y="3269" width="433" height="644"/>
+	<SubTexture name="parappa up0005" x="5454" y="3269" width="433" height="644"/>
+	<SubTexture name="parappa up0006" x="5887" y="3269" width="433" height="644"/>
+	<SubTexture name="parappa up0007" x="5887" y="3269" width="433" height="644"/>
+	<SubTexture name="parappa up0008" x="6320" y="3269" width="433" height="644"/>
+	<SubTexture name="parappa up0009" x="6320" y="3269" width="433" height="644"/>
+	<SubTexture name="parappa up0010" x="6320" y="3269" width="433" height="644"/>
+	<SubTexture name="parappa up0011" x="6320" y="3269" width="433" height="644"/>
+	<SubTexture name="parappa up0012" x="6320" y="3269" width="433" height="644"/>
+	<SubTexture name="parappa up0013" x="6320" y="3269" width="433" height="644"/>
+	<SubTexture name="parappa up0014" x="6753" y="3269" width="433" height="644"/>
+	<SubTexture name="parappa up0015" x="7186" y="3269" width="433" height="644"/>
+</TextureAtlas>

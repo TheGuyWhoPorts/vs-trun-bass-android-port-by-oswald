@@ -1,0 +1,192 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="melodii_assets.png">
+	<!-- Created with Adobe Animate version 21.0.5.40714 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="alt melodii down0000" x="0" y="0" width="518" height="920"/>
+	<SubTexture name="alt melodii down0001" x="518" y="0" width="518" height="920"/>
+	<SubTexture name="alt melodii down0002" x="1036" y="0" width="518" height="920"/>
+	<SubTexture name="alt melodii down0003" x="1036" y="0" width="518" height="920"/>
+	<SubTexture name="alt melodii down0004" x="1554" y="0" width="518" height="920"/>
+	<SubTexture name="alt melodii down0005" x="1554" y="0" width="518" height="920"/>
+	<SubTexture name="alt melodii down0006" x="2072" y="0" width="518" height="920"/>
+	<SubTexture name="alt melodii down0007" x="2072" y="0" width="518" height="920"/>
+	<SubTexture name="alt melodii down0008" x="2072" y="0" width="518" height="920"/>
+	<SubTexture name="alt melodii down0009" x="2072" y="0" width="518" height="920"/>
+	<SubTexture name="alt melodii down0010" x="2072" y="0" width="518" height="920"/>
+	<SubTexture name="alt melodii down0011" x="2590" y="0" width="518" height="920"/>
+	<SubTexture name="alt melodii down0012" x="3108" y="0" width="518" height="920"/>
+	<SubTexture name="alt melodii down0013" x="3626" y="0" width="518" height="920"/>
+	<SubTexture name="alt melodii down0014" x="4144" y="0" width="518" height="920"/>
+	<SubTexture name="alt melodii down0015" x="4662" y="0" width="518" height="920"/>
+	<SubTexture name="alt melodii down0016" x="5180" y="0" width="518" height="920"/>
+	<SubTexture name="alt melodii down0017" x="5698" y="0" width="518" height="920"/>
+	<SubTexture name="alt melodii down0018" x="5698" y="0" width="518" height="920"/>
+	<SubTexture name="alt melodii down0019" x="6216" y="0" width="518" height="920"/>
+	<SubTexture name="alt melodii down0020" x="6216" y="0" width="518" height="920"/>
+	<SubTexture name="alt melodii down0021" x="6734" y="0" width="518" height="920"/>
+	<SubTexture name="alt melodii down0022" x="7252" y="0" width="518" height="920"/>
+	<SubTexture name="alt melodii down0023" x="0" y="920" width="518" height="920"/>
+	<SubTexture name="alt melodii down0024" x="518" y="920" width="518" height="920"/>
+	<SubTexture name="alt melodii right0000" x="1036" y="920" width="698" height="920"/>
+	<SubTexture name="alt melodii right0001" x="1036" y="920" width="698" height="920"/>
+	<SubTexture name="alt melodii right0002" x="1734" y="920" width="698" height="920"/>
+	<SubTexture name="alt melodii right0003" x="1734" y="920" width="698" height="920"/>
+	<SubTexture name="alt melodii right0004" x="1036" y="920" width="698" height="920"/>
+	<SubTexture name="alt melodii right0005" x="1036" y="920" width="698" height="920"/>
+	<SubTexture name="alt melodii right0006" x="2432" y="920" width="698" height="920"/>
+	<SubTexture name="alt melodii right0007" x="2432" y="920" width="698" height="920"/>
+	<SubTexture name="alt melodii right0008" x="3130" y="920" width="698" height="920"/>
+	<SubTexture name="alt melodii right0009" x="3130" y="920" width="698" height="920"/>
+	<SubTexture name="alt melodii right0010" x="3130" y="920" width="698" height="920"/>
+	<SubTexture name="alt melodii right0011" x="3130" y="920" width="698" height="920"/>
+	<SubTexture name="alt melodii right0012" x="3130" y="920" width="698" height="920"/>
+	<SubTexture name="alt melodii right0013" x="3130" y="920" width="698" height="920"/>
+	<SubTexture name="alt melodii right0014" x="3130" y="920" width="698" height="920"/>
+	<SubTexture name="alt melodii right0015" x="3828" y="920" width="698" height="920"/>
+	<SubTexture name="alt melodii right0016" x="4526" y="920" width="698" height="920"/>
+	<SubTexture name="alt melodii right0017" x="5224" y="920" width="698" height="920"/>
+	<SubTexture name="melodii down0000" x="5922" y="920" width="479" height="919"/>
+	<SubTexture name="melodii down0001" x="5922" y="920" width="479" height="919"/>
+	<SubTexture name="melodii down0002" x="6401" y="920" width="479" height="919"/>
+	<SubTexture name="melodii down0003" x="6401" y="920" width="479" height="919"/>
+	<SubTexture name="melodii down0004" x="6880" y="920" width="479" height="919"/>
+	<SubTexture name="melodii down0005" x="6880" y="920" width="479" height="919"/>
+	<SubTexture name="melodii down0006" x="7359" y="920" width="479" height="919"/>
+	<SubTexture name="melodii down0007" x="7359" y="920" width="479" height="919"/>
+	<SubTexture name="melodii down0008" x="0" y="1840" width="479" height="919"/>
+	<SubTexture name="melodii down0009" x="0" y="1840" width="479" height="919"/>
+	<SubTexture name="melodii down0010" x="0" y="1840" width="479" height="919"/>
+	<SubTexture name="melodii down0011" x="0" y="1840" width="479" height="919"/>
+	<SubTexture name="melodii down0012" x="479" y="1840" width="479" height="919"/>
+	<SubTexture name="melodii down0013" x="479" y="1840" width="479" height="919"/>
+	<SubTexture name="melodii down0014" x="958" y="1840" width="479" height="919"/>
+	<SubTexture name="melodii down0015" x="1437" y="1840" width="479" height="919"/>
+	<SubTexture name="melodii idle0000" x="1916" y="1840" width="480" height="921"/>
+	<SubTexture name="melodii idle0001" x="1916" y="1840" width="480" height="921"/>
+	<SubTexture name="melodii idle0002" x="2396" y="1840" width="480" height="921"/>
+	<SubTexture name="melodii idle0003" x="2396" y="1840" width="480" height="921"/>
+	<SubTexture name="melodii idle0004" x="2876" y="1840" width="480" height="921"/>
+	<SubTexture name="melodii idle0005" x="2876" y="1840" width="480" height="921"/>
+	<SubTexture name="melodii idle0006" x="3356" y="1840" width="480" height="921"/>
+	<SubTexture name="melodii idle0007" x="3356" y="1840" width="480" height="921"/>
+	<SubTexture name="melodii idle0008" x="3836" y="1840" width="480" height="921"/>
+	<SubTexture name="melodii idle0009" x="3836" y="1840" width="480" height="921"/>
+	<SubTexture name="melodii idle0010" x="4316" y="1840" width="480" height="921"/>
+	<SubTexture name="melodii idle0011" x="4316" y="1840" width="480" height="921"/>
+	<SubTexture name="melodii idle0012" x="4796" y="1840" width="480" height="921"/>
+	<SubTexture name="melodii idle0013" x="4796" y="1840" width="480" height="921"/>
+	<SubTexture name="melodii idle0014" x="5276" y="1840" width="480" height="921"/>
+	<SubTexture name="melodii idle0015" x="5276" y="1840" width="480" height="921"/>
+	<SubTexture name="melodii left0000" x="5756" y="1840" width="514" height="920"/>
+	<SubTexture name="melodii left0001" x="5756" y="1840" width="514" height="920"/>
+	<SubTexture name="melodii left0002" x="6270" y="1840" width="514" height="920"/>
+	<SubTexture name="melodii left0003" x="6270" y="1840" width="514" height="920"/>
+	<SubTexture name="melodii left0004" x="6784" y="1840" width="514" height="920"/>
+	<SubTexture name="melodii left0005" x="6784" y="1840" width="514" height="920"/>
+	<SubTexture name="melodii left0006" x="7298" y="1840" width="514" height="920"/>
+	<SubTexture name="melodii left0007" x="7298" y="1840" width="514" height="920"/>
+	<SubTexture name="melodii left0008" x="0" y="2761" width="514" height="920"/>
+	<SubTexture name="melodii left0009" x="0" y="2761" width="514" height="920"/>
+	<SubTexture name="melodii left0010" x="0" y="2761" width="514" height="920"/>
+	<SubTexture name="melodii left0011" x="0" y="2761" width="514" height="920"/>
+	<SubTexture name="melodii left0012" x="0" y="2761" width="514" height="920"/>
+	<SubTexture name="melodii left0013" x="514" y="2761" width="514" height="920"/>
+	<SubTexture name="melodii left0014" x="1028" y="2761" width="514" height="920"/>
+	<SubTexture name="melodii left0015" x="1542" y="2761" width="514" height="920"/>
+	<SubTexture name="melodii right0000" x="2056" y="2761" width="524" height="920"/>
+	<SubTexture name="melodii right0001" x="2056" y="2761" width="524" height="920"/>
+	<SubTexture name="melodii right0002" x="2580" y="2761" width="524" height="920"/>
+	<SubTexture name="melodii right0003" x="2580" y="2761" width="524" height="920"/>
+	<SubTexture name="melodii right0004" x="3104" y="2761" width="524" height="920"/>
+	<SubTexture name="melodii right0005" x="3104" y="2761" width="524" height="920"/>
+	<SubTexture name="melodii right0006" x="3628" y="2761" width="524" height="920"/>
+	<SubTexture name="melodii right0007" x="3628" y="2761" width="524" height="920"/>
+	<SubTexture name="melodii right0008" x="4152" y="2761" width="524" height="920"/>
+	<SubTexture name="melodii right0009" x="4152" y="2761" width="524" height="920"/>
+	<SubTexture name="melodii right0010" x="4152" y="2761" width="524" height="920"/>
+	<SubTexture name="melodii right0011" x="4152" y="2761" width="524" height="920"/>
+	<SubTexture name="melodii right0012" x="4676" y="2761" width="524" height="920"/>
+	<SubTexture name="melodii right0013" x="4676" y="2761" width="524" height="920"/>
+	<SubTexture name="melodii right0014" x="5200" y="2761" width="524" height="920"/>
+	<SubTexture name="melodii right0015" x="5724" y="2761" width="524" height="920"/>
+	<SubTexture name="melodii up0000" x="6248" y="2761" width="539" height="962"/>
+	<SubTexture name="melodii up0001" x="6248" y="2761" width="539" height="962"/>
+	<SubTexture name="melodii up0002" x="6787" y="2761" width="539" height="962"/>
+	<SubTexture name="melodii up0003" x="6787" y="2761" width="539" height="962"/>
+	<SubTexture name="melodii up0004" x="7326" y="2761" width="539" height="962"/>
+	<SubTexture name="melodii up0005" x="7326" y="2761" width="539" height="962"/>
+	<SubTexture name="melodii up0006" x="0" y="3723" width="539" height="962"/>
+	<SubTexture name="melodii up0007" x="0" y="3723" width="539" height="962"/>
+	<SubTexture name="melodii up0008" x="539" y="3723" width="539" height="962"/>
+	<SubTexture name="melodii up0009" x="539" y="3723" width="539" height="962"/>
+	<SubTexture name="melodii up0010" x="539" y="3723" width="539" height="962"/>
+	<SubTexture name="melodii up0011" x="539" y="3723" width="539" height="962"/>
+	<SubTexture name="melodii up0012" x="1078" y="3723" width="539" height="962"/>
+	<SubTexture name="melodii up0013" x="1078" y="3723" width="539" height="962"/>
+	<SubTexture name="melodii up0014" x="1617" y="3723" width="539" height="962"/>
+	<SubTexture name="melodii up0015" x="2156" y="3723" width="539" height="962"/>
+	<SubTexture name="miss melodii down0000" x="2695" y="3723" width="479" height="919"/>
+	<SubTexture name="miss melodii down0001" x="3174" y="3723" width="479" height="919"/>
+	<SubTexture name="miss melodii down0002" x="3653" y="3723" width="479" height="919"/>
+	<SubTexture name="miss melodii down0003" x="4132" y="3723" width="479" height="919"/>
+	<SubTexture name="miss melodii down0004" x="4132" y="3723" width="479" height="919"/>
+	<SubTexture name="miss melodii down0005" x="4132" y="3723" width="479" height="919"/>
+	<SubTexture name="miss melodii down0006" x="4132" y="3723" width="479" height="919"/>
+	<SubTexture name="miss melodii down0007" x="4132" y="3723" width="479" height="919"/>
+	<SubTexture name="miss melodii down0008" x="4132" y="3723" width="479" height="919"/>
+	<SubTexture name="miss melodii down0009" x="4132" y="3723" width="479" height="919"/>
+	<SubTexture name="miss melodii down0010" x="4132" y="3723" width="479" height="919"/>
+	<SubTexture name="miss melodii down0011" x="4132" y="3723" width="479" height="919"/>
+	<SubTexture name="miss melodii down0012" x="4132" y="3723" width="479" height="919"/>
+	<SubTexture name="miss melodii down0013" x="4132" y="3723" width="479" height="919"/>
+	<SubTexture name="miss melodii down0014" x="4611" y="3723" width="479" height="919"/>
+	<SubTexture name="miss melodii down0015" x="5090" y="3723" width="479" height="919"/>
+	<SubTexture name="miss melodii left0000" x="5569" y="3723" width="515" height="921"/>
+	<SubTexture name="miss melodii left0001" x="6084" y="3723" width="515" height="921"/>
+	<SubTexture name="miss melodii left0002" x="6084" y="3723" width="515" height="921"/>
+	<SubTexture name="miss melodii left0003" x="6599" y="3723" width="515" height="921"/>
+	<SubTexture name="miss melodii left0004" x="6599" y="3723" width="515" height="921"/>
+	<SubTexture name="miss melodii left0005" x="6599" y="3723" width="515" height="921"/>
+	<SubTexture name="miss melodii left0006" x="6599" y="3723" width="515" height="921"/>
+	<SubTexture name="miss melodii left0007" x="6599" y="3723" width="515" height="921"/>
+	<SubTexture name="miss melodii left0008" x="6599" y="3723" width="515" height="921"/>
+	<SubTexture name="miss melodii left0009" x="6599" y="3723" width="515" height="921"/>
+	<SubTexture name="miss melodii left0010" x="6599" y="3723" width="515" height="921"/>
+	<SubTexture name="miss melodii left0011" x="6599" y="3723" width="515" height="921"/>
+	<SubTexture name="miss melodii left0012" x="6599" y="3723" width="515" height="921"/>
+	<SubTexture name="miss melodii left0013" x="7114" y="3723" width="515" height="921"/>
+	<SubTexture name="miss melodii left0014" x="7629" y="3723" width="515" height="921"/>
+	<SubTexture name="miss melodii left0015" x="0" y="4685" width="515" height="921"/>
+	<SubTexture name="miss melodii right0000" x="515" y="4685" width="524" height="921"/>
+	<SubTexture name="miss melodii right0001" x="1039" y="4685" width="524" height="921"/>
+	<SubTexture name="miss melodii right0002" x="1563" y="4685" width="524" height="921"/>
+	<SubTexture name="miss melodii right0003" x="2087" y="4685" width="524" height="921"/>
+	<SubTexture name="miss melodii right0004" x="2087" y="4685" width="524" height="921"/>
+	<SubTexture name="miss melodii right0005" x="2087" y="4685" width="524" height="921"/>
+	<SubTexture name="miss melodii right0006" x="2087" y="4685" width="524" height="921"/>
+	<SubTexture name="miss melodii right0007" x="2087" y="4685" width="524" height="921"/>
+	<SubTexture name="miss melodii right0008" x="2087" y="4685" width="524" height="921"/>
+	<SubTexture name="miss melodii right0009" x="2087" y="4685" width="524" height="921"/>
+	<SubTexture name="miss melodii right0010" x="2087" y="4685" width="524" height="921"/>
+	<SubTexture name="miss melodii right0011" x="2087" y="4685" width="524" height="921"/>
+	<SubTexture name="miss melodii right0012" x="2611" y="4685" width="524" height="921"/>
+	<SubTexture name="miss melodii right0013" x="2611" y="4685" width="524" height="921"/>
+	<SubTexture name="miss melodii right0014" x="3135" y="4685" width="524" height="921"/>
+	<SubTexture name="miss melodii right0015" x="3659" y="4685" width="524" height="921"/>
+	<SubTexture name="miss melodii up0000" x="4183" y="4685" width="540" height="963"/>
+	<SubTexture name="miss melodii up0001" x="4723" y="4685" width="540" height="963"/>
+	<SubTexture name="miss melodii up0002" x="4723" y="4685" width="540" height="963"/>
+	<SubTexture name="miss melodii up0003" x="5263" y="4685" width="540" height="963"/>
+	<SubTexture name="miss melodii up0004" x="5263" y="4685" width="540" height="963"/>
+	<SubTexture name="miss melodii up0005" x="5263" y="4685" width="540" height="963"/>
+	<SubTexture name="miss melodii up0006" x="5263" y="4685" width="540" height="963"/>
+	<SubTexture name="miss melodii up0007" x="5263" y="4685" width="540" height="963"/>
+	<SubTexture name="miss melodii up0008" x="5263" y="4685" width="540" height="963"/>
+	<SubTexture name="miss melodii up0009" x="5263" y="4685" width="540" height="963"/>
+	<SubTexture name="miss melodii up0010" x="5263" y="4685" width="540" height="963"/>
+	<SubTexture name="miss melodii up0011" x="5263" y="4685" width="540" height="963"/>
+	<SubTexture name="miss melodii up0012" x="5263" y="4685" width="540" height="963"/>
+	<SubTexture name="miss melodii up0013" x="5263" y="4685" width="540" height="963"/>
+	<SubTexture name="miss melodii up0014" x="5803" y="4685" width="540" height="963"/>
+	<SubTexture name="miss melodii up0015" x="6343" y="4685" width="540" height="963"/>
+</TextureAtlas>
