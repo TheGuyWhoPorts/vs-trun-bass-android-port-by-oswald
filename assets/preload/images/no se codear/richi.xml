@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="richi.png">
+	<!-- Created with Adobe Animate version 21.0.5.40714 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="richilix0000" x="0" y="0" width="528" height="559"/>
+	<SubTexture name="richilix0001" x="0" y="0" width="528" height="559"/>
+	<SubTexture name="richilix0002" x="528" y="0" width="528" height="559"/>
+	<SubTexture name="richilix0003" x="528" y="0" width="528" height="559"/>
+	<SubTexture name="richilix0004" x="1056" y="0" width="528" height="559"/>
+	<SubTexture name="richilix0005" x="1056" y="0" width="528" height="559"/>
+	<SubTexture name="richilix0006" x="0" y="559" width="528" height="559"/>
+	<SubTexture name="richilix0007" x="0" y="559" width="528" height="559"/>
+	<SubTexture name="richilix0008" x="528" y="559" width="528" height="559"/>
+	<SubTexture name="richilix0009" x="528" y="559" width="528" height="559"/>
+	<SubTexture name="richilix0010" x="1056" y="559" width="528" height="559"/>
+	<SubTexture name="richilix0011" x="1056" y="559" width="528" height="559"/>
+	<SubTexture name="richilix0012" x="0" y="1118" width="528" height="559"/>
+	<SubTexture name="richilix0013" x="0" y="1118" width="528" height="559"/>
+	<SubTexture name="richilix0014" x="528" y="1118" width="528" height="559"/>
+	<SubTexture name="richilix0015" x="528" y="1118" width="528" height="559"/>
+	<SubTexture name="richilix0016" x="528" y="1118" width="528" height="559"/>
+	<SubTexture name="richilix0017" x="528" y="1118" width="528" height="559"/>
+	<SubTexture name="richilix0018" x="528" y="1118" width="528" height="559"/>
+	<SubTexture name="richilix0019" x="528" y="1118" width="528" height="559"/>
+</TextureAtlas>

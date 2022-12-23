@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="composer.png">
+	<!-- Created with Adobe Animate version 21.0.5.40714 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="mikegeno0000" x="0" y="0" width="380" height="435"/>
+	<SubTexture name="mikegeno0001" x="0" y="0" width="380" height="435"/>
+	<SubTexture name="mikegeno0002" x="380" y="0" width="380" height="435"/>
+	<SubTexture name="mikegeno0003" x="380" y="0" width="380" height="435"/>
+	<SubTexture name="mikegeno0004" x="760" y="0" width="380" height="435"/>
+	<SubTexture name="mikegeno0005" x="760" y="0" width="380" height="435"/>
+	<SubTexture name="mikegeno0006" x="1140" y="0" width="380" height="435"/>
+	<SubTexture name="mikegeno0007" x="1140" y="0" width="380" height="435"/>
+	<SubTexture name="mikegeno0008" x="1520" y="0" width="380" height="435"/>
+	<SubTexture name="mikegeno0009" x="1520" y="0" width="380" height="435"/>
+	<SubTexture name="mikegeno0010" x="0" y="435" width="380" height="435"/>
+	<SubTexture name="mikegeno0011" x="0" y="435" width="380" height="435"/>
+	<SubTexture name="mikegeno0012" x="380" y="435" width="380" height="435"/>
+	<SubTexture name="mikegeno0013" x="380" y="435" width="380" height="435"/>
+	<SubTexture name="mikegeno0014" x="760" y="435" width="380" height="435"/>
+	<SubTexture name="mikegeno0015" x="760" y="435" width="380" height="435"/>
+	<SubTexture name="mikegeno0016" x="760" y="435" width="380" height="435"/>
+	<SubTexture name="mikegeno0017" x="760" y="435" width="380" height="435"/>
+	<SubTexture name="mikegeno0018" x="760" y="435" width="380" height="435"/>
+	<SubTexture name="mikegeno0019" x="760" y="435" width="380" height="435"/>
+</TextureAtlas>
