@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="menu_bf_lol.png">
+	<!-- Created with Adobe Animate version 21.0.5.40714 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="bf0000" x="0" y="0" width="452" height="566"/>
+	<SubTexture name="bf0001" x="0" y="0" width="452" height="566"/>
+	<SubTexture name="bf0002" x="452" y="0" width="452" height="566"/>
+	<SubTexture name="bf0003" x="452" y="0" width="452" height="566"/>
+	<SubTexture name="bf0004" x="904" y="0" width="452" height="566"/>
+	<SubTexture name="bf0005" x="904" y="0" width="452" height="566"/>
+	<SubTexture name="bf0006" x="452" y="0" width="452" height="566"/>
+	<SubTexture name="bf0007" x="452" y="0" width="452" height="566"/>
+</TextureAtlas>

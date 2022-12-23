@@ -1,0 +1,11 @@
+{
+	"confirm_anim": "parappa",
+	"idle_anim": "bf",
+	"position": [
+		35,
+		108
+	],
+	"scale": 0.7,
+	"image": "menu_bf_lol",
+	"flipX": false
+}

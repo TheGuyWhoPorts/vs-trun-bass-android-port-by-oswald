@@ -1,0 +1,11 @@
+{
+	"confirm_anim": "parappa",
+	"idle_anim": "parappa",
+	"position": [
+		460,
+		117
+	],
+	"scale": 0.7,
+	"image": "menu_parappa",
+	"flipX": false
+}

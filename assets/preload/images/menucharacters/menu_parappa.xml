@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="menu_parappa.png">
+	<!-- Created with Adobe Animate version 21.0.5.40714 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="parappa0000" x="0" y="0" width="1193" height="579"/>
+	<SubTexture name="parappa0001" x="0" y="0" width="1193" height="579"/>
+	<SubTexture name="parappa0002" x="0" y="579" width="1193" height="579"/>
+	<SubTexture name="parappa0003" x="0" y="579" width="1193" height="579"/>
+	<SubTexture name="parappa0004" x="0" y="1158" width="1193" height="579"/>
+	<SubTexture name="parappa0005" x="0" y="1158" width="1193" height="579"/>
+	<SubTexture name="parappa0006" x="0" y="579" width="1193" height="579"/>
+	<SubTexture name="parappa0007" x="0" y="579" width="1193" height="579"/>
+</TextureAtlas>

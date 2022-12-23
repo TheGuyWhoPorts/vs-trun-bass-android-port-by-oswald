@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="menu_melodii.png">
+	<!-- Created with Adobe Animate version 21.0.5.40714 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="melodii0000" x="0" y="0" width="463" height="585"/>
+	<SubTexture name="melodii0001" x="0" y="0" width="463" height="585"/>
+	<SubTexture name="melodii0002" x="463" y="0" width="463" height="585"/>
+	<SubTexture name="melodii0003" x="463" y="0" width="463" height="585"/>
+	<SubTexture name="melodii0004" x="926" y="0" width="463" height="585"/>
+	<SubTexture name="melodii0005" x="926" y="0" width="463" height="585"/>
+	<SubTexture name="melodii0006" x="463" y="0" width="463" height="585"/>
+	<SubTexture name="melodii0007" x="463" y="0" width="463" height="585"/>
+</TextureAtlas>
