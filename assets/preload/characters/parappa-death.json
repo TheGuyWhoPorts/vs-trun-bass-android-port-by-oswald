@@ -1,0 +1,56 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-55,
+				-40
+			],
+			"anim": "firstDeath",
+			"fps": 24,
+			"name": "parappa first",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				7,
+				-19
+			],
+			"anim": "deathLoop",
+			"fps": 24,
+			"name": "parappa loop",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				8,
+				-18
+			],
+			"anim": "deathConfirm",
+			"fps": 24,
+			"name": "parappa confirm",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/parappa_death_assets",
+	"position": [
+		180,
+		170
+	],
+	"healthicon": "parappa",
+	"flip_x": true,
+	"healthbar_colors": [
+		255,
+		93,
+		32
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1.2
+}

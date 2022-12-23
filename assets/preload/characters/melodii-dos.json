@@ -1,0 +1,177 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "melodii idle"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				34,
+				-1
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "melodii left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-1,
+				-2
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "melodii down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				41
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "melodii up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-2,
+				-1
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "melodii right",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				-1
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT-alt",
+			"indices": [],
+			"name": "alt melodii right"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-1
+			],
+			"anim": "singDOWN-alt",
+			"fps": 24,
+			"name": "alt melodii right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-1
+			],
+			"anim": "singLEFT-alt",
+			"fps": 24,
+			"name": "alt melodii right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-1
+			],
+			"anim": "singUP-alt",
+			"fps": 24,
+			"name": "alt melodii right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-2,
+				-1
+			],
+			"anim": "take",
+			"fps": 24,
+			"name": "alt melodii down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-2,
+				0
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "miss melodii right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				42
+			],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "miss melodii up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-1,
+				-2
+			],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "miss melodii down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				35,
+				-1
+			],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "miss melodii left",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/melodii_assets",
+	"position": [
+		-88,
+		250
+	],
+	"healthicon": "melodii",
+	"flip_x": true,
+	"healthbar_colors": [
+		255,
+		140,
+		255
+	],
+	"camera_position": [
+		-500,
+		-40
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

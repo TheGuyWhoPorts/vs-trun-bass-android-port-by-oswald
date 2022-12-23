@@ -1,0 +1,166 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "bf idle"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				39,
+				-1
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "bf left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				13,
+				-6
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "bf down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-4,
+				46
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "bf up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-10,
+				-1
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "bf right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				155,
+				-3
+			],
+			"anim": "singDOWN-alt",
+			"fps": 24,
+			"name": "alt bf left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				155,
+				-3
+			],
+			"anim": "singRIGHT-alt",
+			"fps": 24,
+			"name": "alt bf left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				155,
+				-3
+			],
+			"anim": "singUP-alt",
+			"fps": 24,
+			"name": "alt bf left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-7,
+				0
+			],
+			"anim": "take",
+			"fps": 24,
+			"name": "alt bf down",
+			"indices": []
+		},
+		{
+			"offsets": [
+				1,
+				-36
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "GG",
+			"indices": [],
+			"name": "bf gg"
+		},
+		{
+			"offsets": [
+				156,
+				-4
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT-alt",
+			"indices": [],
+			"name": "alt bf up"
+		},
+		{
+			"offsets": [
+				2,
+				-37
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "chill",
+			"indices": [],
+			"name": "bf chill"
+		},
+		{
+			"offsets": [
+				0,
+				-1
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle-alt",
+			"indices": [],
+			"name": "alt bf idle"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/bf_assets",
+	"position": [
+		767,
+		327
+	],
+	"healthicon": "parappa-bf",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		93,
+		32
+	],
+	"camera_position": [
+		-550,
+		-80
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}
