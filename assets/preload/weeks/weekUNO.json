@@ -1,0 +1,32 @@
+{
+	"storyName": "BPM song",
+	"difficulties": "Normal",
+	"hideFreeplay": false,
+	"weekBackground": "bpm",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"menu-melodii",
+		"menu-parappa",
+		"menu-bf-lol"
+	],
+	"songs": [
+		[
+			"turn-bass",
+			"bpm",
+			[
+				166,
+				153,
+				215
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "week-uno",
+	"hiddenUntilUnlocked": false
+}
